@@ -1,0 +1,8 @@
+__pycache/
+*_pyc
+*.db
+.env
+*.log
+.env/
+.venv/
+.idea/
